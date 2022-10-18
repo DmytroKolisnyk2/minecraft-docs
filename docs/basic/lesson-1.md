@@ -51,8 +51,8 @@ sidebar_position: 1
 | **Назва**     | **Лінія квітів**                                                                                       | **Лінія блоків**                                                                                                          |
 | ------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
 | **Завдання**  | <p>– 6 маків<br/>– 10 бамбуків<br/>– 4 саджанці дуба<br/>– 7 блакитних волошок<br/>– 3 папоротники</p> | <p>– 6 блоків скла<br/>– 10 блоків вибухівки<br/>– 4 блоки гарбуза<br/>– 7 блоків білого бетону<br/>– 3 блоки з цегли</p> |
-| **Код**       | ![](<img/lesson-1/image (5).png>)                                                                     | ![](<img/lesson-1/image (25).png>)                                                                                       |
-| **Результат** | ![](<img/lesson-1/image (4).png>)                                                                     | ![](<img/lesson-1/image (21).png>)                                                                                       |
+| **Код**       | ![](<img/lesson-1/image (5).png>)                                                                      | ![](<img/lesson-1/image (25).png>)                                                                                        |
+| **Результат** | ![](<img/lesson-1/image (4).png>)                                                                      | ![](<img/lesson-1/image (21).png>)                                                                                        |
 
 :::tip
 
@@ -75,7 +75,7 @@ sidebar_position: 1
 :::
 
 | **Код Морзе англійською** | ![](<img/lesson-1/image (16).png>) |
-| ------------------------- | ----------------------------------- |
+| ------------------------- | ---------------------------------- |
 | **Код Морзе українською** | ![](<img/lesson-1/image (9).png>)  |
 | **Код Морзе російською**  | ![](img/lesson-1/image.png)        |
 
@@ -88,7 +88,7 @@ sidebar_position: 1
 | ![](https://lh3.googleusercontent.com/wHtQOIOMuuSSjlwk863tRrvEqRS0WTa3ONdkd6JdGyYZgKXvJl7A68haIDyZ7YhC7iU5-7zEHZexpgcB6hTsxiXEHlmIqGFWDTzgmRjooPhZN7VrI5MCVQyvlkRwdLfsCTBLA0zVf2m_Iq3Vs9iDwC1-7YCYbjEc4bZo9w64xvD-0Ok9qRziFA3JkzcH) |
 | ![](https://lh3.googleusercontent.com/wHtQOIOMuuSSjlwk863tRrvEqRS0WTa3ONdkd6JdGyYZgKXvJl7A68haIDyZ7YhC7iU5-7zEHZexpgcB6hTsxiXEHlmIqGFWDTzgmRjooPhZN7VrI5MCVQyvlkRwdLfsCTBLA0zVf2m_Iq3Vs9iDwC1-7YCYbjEc4bZo9w64xvD-0Ok9qRziFA3JkzcH) |
 
-<figure><img src="https://lh3.googleusercontent.com/bk9LCeN-uYvb8RJk5Kvv2X_hGAMHVhzzU3fbQIMq69Jml9p1_AfdS71ZCxCjYa5yFE3XHnzB8HyZTt-QuGygkMMarClRmO7srJZHE3pxydZILF71bFH1NfkOPUah0JjCzJbM0klFkRSdVpCHZmD6-9GYbAPkzcaxuwNOXPs5TIeOMG0PcQfqVcWtcOmg" alt=""/><figcaption></figcaption></figure>
+<figure><img src="https://lh3.googleusercontent.com/bk9LCeN-uYvb8RJk5Kvv2X_hGAMHVhzzU3fbQIMq69Jml9p1_AfdS71ZCxCjYa5yFE3XHnzB8HyZTt-QuGygkMMarClRmO7srJZHE3pxydZILF71bFH1NfkOPUah0JjCzJbM0klFkRSdVpCHZmD6-9GYbAPkzcaxuwNOXPs5TIeOMG0PcQfqVcWtcOmg" alt="no-img"/><figcaption></figcaption></figure>
 
 |     К     |   I    |   Т    |
 | :-------: | :----: | :----: |
@@ -119,7 +119,7 @@ sidebar_position: 1
 ### Команди чата
 
 | **Крапка**                           | ![](<img/lesson-1/image (10).png>) |
-| ------------------------------------ | ----------------------------------- |
+| ------------------------------------ | ---------------------------------- |
 | **Тире**                             | ![](<img/lesson-1/image (27).png>) |
 | **Пробіл**                           | ![](<img/lesson-1/image (11).png>) |
 | **Написання літер командами в чаті** | ![](<img/lesson-1/image (14).png>) |
@@ -129,21 +129,21 @@ sidebar_position: 1
 ### Тире
 
 | **1) Створюємо функцію** | ![](<img/lesson-1/image (18).png>) |
-| ------------------------ | ----------------------------------- |
+| ------------------------ | ---------------------------------- |
 | **2) Даємо назву**       | ![](<img/lesson-1/image (3).png>)  |
 | **3) Задаємо код**       | ![](<img/lesson-1/image (12).png>) |
 
 ### Крапка
 
 | **1) Створюємо функцію** | ![](<img/lesson-1/image (6).png>)  |
-| ------------------------ | ----------------------------------- |
+| ------------------------ | ---------------------------------- |
 | **2) Даємо назву**       | ![](<img/lesson-1/image (15).png>) |
 | **3) Задаємо код**       | ![](<img/lesson-1/image (13).png>) |
 
 ### Пробіл
 
 | **1) Створюємо функцію** | ![](<img/lesson-1/image (22).png>) |
-| ------------------------ | ----------------------------------- |
+| ------------------------ | ---------------------------------- |
 | **2) Даємо назву**       | ![](<img/lesson-1/image (24).png>) |
 | **3) Задаємо код**       | ![](<img/lesson-1/image (26).png>) |
 
@@ -181,9 +181,9 @@ sidebar_position: 1
 
 ## **Як завантажити свій код**
 
-| 1. Поділитися                                                                                         | ![](img/lesson-1/1.png) |
-| ----------------------------------------------------------------------------------------------------- | ------------------------ |
-| <p>2. Пишемо назву для коду проєкту</p><p></p><p>3. Публікуємо в інтернеті</p>                        | ![](img/lesson-1/2.png) |
+| <p>1. Поділитися</p> <p></p>                                                                          | ![](img/lesson-1/1.png) |
+| ----------------------------------------------------------------------------------------------------- | ----------------------- |
+| <p>2. Пишемо назву для коду проєкту</p><p>3. Публікуємо в інтернеті</p>                               | ![](img/lesson-1/2.png) |
 | <p>4. Копіюємо посилання<br/><br/>Скопійоване посилання потрібно вставити в ДЗ як текстовий рядок</p> | ![](img/lesson-1/3.png) |
 
 ---

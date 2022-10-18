@@ -6,7 +6,7 @@ sidebar_position: 2
 
 #### **Опис**
 
-:::hint
+:::tip
 Сьогодні ми попрактикуємо навички управління агентом. Створимо квадрат і прямокутник блоків та квітів. Згадаємо шкільну математику та розрахуємо периметр і площу для всіх побудованих квадратів і прямокутників.
 :::
 
@@ -39,25 +39,28 @@ https://makecode.com/\_HVr9HjH4yFpf
 
 ![](https://lh4.googleusercontent.com/mADAtywE2jWbVM0nLqBev618_bZd4mWWPGyCKUSAUhhw076L2DhUm-7P86ITU1goaLwFZh4orXLSpfzps4MTOXL5S6W8bRCXKQ2p1FVW7WXJeqHmX-8kzF6miCHKbgEMTP5w5My84u4R472k-IxnMWpOROZYbbYW4YDN5NhPWCXOqgGze3CLXNfarlnv)
 
-| **Назва**     | **Квадрат блоків**                                                                                                                                                                                                                                                                                             | **Квадрат квітів**                                                                                         |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| **Завдання**  | <p>– квадрат 7х7 </p><p>– квадрат 3х3 </p><p>– квадрат 4х4 </p><p>– квадрат 10х10</p><p>– квадрат 20х20</p>                                                                                                                                                                                                    | <p>– квадрат 7х7 </p><p>– квадрат 3х3 </p><p>– квадрат 4х4</p><p>– квадрат 10х10</p><p>– квадрат 20х20</p> |
-| **Код**       | <p><img src="img/lesson-2/2.1.png" alt=""/><br/>або<br/><img src="https://lh3.googleusercontent.com/lOIlM0iQ6iNERGVgGITqPoXQondbiHvM4LdGlO8k2GREB96FOgWfFXKXklmf9pjI4LFGvxyduQLbN6_uoB06emPYkTKNEcFKQlTgqgxCwT9rFwTK92eVTAWPSFpPlMikuw86QaalW3msSQRa1XhxkYbEh3_ssNfMt6ZLC1PP9w3F426PxZrBj-afZYbi" alt=""/></p> | ![](img/lesson-2/2.3.png)                                                                                  |
-| **Результат** | ![](img/lesson-2/image.png)                                                                                                                                                                                                                                                                                    | ![](<img/lesson-2/image (7).png>)                                                                          |
+| **Назва**     | **Квадрат блоків**                                                                                                                                                                                                                                                                                                         | **Квадрат квітів**                                                                                         |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Завдання**  | <p>– квадрат 7х7 </p><p>– квадрат 3х3 </p><p>– квадрат 4х4 </p><p>– квадрат 10х10</p><p>– квадрат 20х20</p>                                                                                                                                                                                                                | <p>– квадрат 7х7 </p><p>– квадрат 3х3 </p><p>– квадрат 4х4</p><p>– квадрат 10х10</p><p>– квадрат 20х20</p> |
+| **Код**       | <p><img src="img/lesson-2/2.1.png" alt="no-img"/><br/>або<br/><img src="https://lh3.googleusercontent.com/lOIlM0iQ6iNERGVgGITqPoXQondbiHvM4LdGlO8k2GREB96FOgWfFXKXklmf9pjI4LFGvxyduQLbN6_uoB06emPYkTKNEcFKQlTgqgxCwT9rFwTK92eVTAWPSFpPlMikuw86QaalW3msSQRa1XhxkYbEh3_ssNfMt6ZLC1PP9w3F426PxZrBj-afZYbi" alt="no-img"/></p> | ![](img/lesson-2/2.3.png)                                                                                  |
+| **Результат** | ![](img/lesson-2/image.png)                                                                                                                                                                                                                                                                                                | ![](<img/lesson-2/image (7).png>)                                                                          |
 
-:::hint
+:::tip
 Якщо ви впорались із усіма основними завданнями, перейдіть до додаткового. Його виконання дозволить вам вдосконалити набуті навички!
 :::
 
 ## Додаткове завдання
 
-1. Розрахуйте периметр і площу для всіх побудованих квадратів та прямокутників (це обов'язково знадобиться вам на уроці математики😉).\
+1. Розрахуйте периметр і площу для всіх побудованих квадратів та прямокутників (це обов'язково знадобиться вам на уроці математики😉).
 
 2. Побудуйте відповідні квадрати.
 
 ![](<img/lesson-2/Group 2438.png>)
 
-<figure><img src="https://lh5.googleusercontent.com/Ya7JSx0GjB4Hk0pv45P_32p8Y1wfodXRfegxhNp80zxzMTi05XUpDr_E7PhmjoTkXUxLNq88uM5dw4rtDaWJ7WilECW3I9jR1xZeagbyHjo-bjHo4SsAs1GOuxkPFP80wlVbOjlHNoARwnDQaXgtXz5okNPf3XGXDez07zg9UFGi_c7cQozebGNhj8oG" alt=""/><figcaption></figcaption></figure>
+<figure>
+<img src="https://lh5.googleusercontent.com/Ya7JSx0GjB4Hk0pv45P_32p8Y1wfodXRfegxhNp80zxzMTi05XUpDr_E7PhmjoTkXUxLNq88uM5dw4rtDaWJ7WilECW3I9jR1xZeagbyHjo-bjHo4SsAs1GOuxkPFP80wlVbOjlHNoARwnDQaXgtXz5okNPf3XGXDez07zg9UFGi_c7cQozebGNhj8oG" alt="no-img"/>
+<figcaption>
+</figcaption></figure>
 
 | **Завдання**  | <p>Побудуйте квадрати зі сторонами:</p><ol><li>6 см</li><li>7 см</li><li>8 см</li></ol> |
 | ------------- | --------------------------------------------------------------------------------------- |
@@ -86,10 +89,10 @@ https://makecode.com/\_HVr9HjH4yFpf
 
 ## [ «Лавове озеро»](https://makecode.com/_41yJza0zH2Ku)
 
-| **Завдання**  | Побудувати «Лавове озеро» під землю                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Код**       | <p><img src="https://lh3.googleusercontent.com/zKluOWh9UzICdWHP8bjCMzmCZJFuaLDM9lU6anF9DM3DlL4phapnP6ykOYuKYyCagoqf5qfuE8z6pZnxmss9JuFDF8aVj5_7aOi07eMK1G1YLE4bPpSmVUqEjiDOVz7cCl26lsYU5sMLs26rJaXqJVF7fGQ5lQVTUOF_xLj4D_zhmYOgvajvlPQ7FBin" alt=""/><br/><img src="https://lh4.googleusercontent.com/R0QgtjTl76LFr8X3kTZpq-Iec9dpbT-0gFRFLvIYr3rMXUszWSG3w9e_WroRY9ObTVATmn2f7CbCrgSxN6SKlQ65Zs06XUULV43cjKYqhXWUpJP8SKZJLJbxlWcupp5_09yONMJAc5lY1J74KstO0V6t8Xz8CpBQZEXtur13AjuDgLE-6lxJN6WDTlsS" alt=""/></p> |
-| **Результат** | ![](https://lh3.googleusercontent.com/KjtVHBw567PtkJdN8NUMRfiGoMcojreybQc2UtG8UwXRs2dW6ASGjdPDOO_3vhIbENW6VqvHNDWdeGLw2EtBI_ABrn359NfaPXt8duOfr4fw-1-YMfK3RtzH69PY_Nyd2-bUnMADeRXe3Rb_NE1iJnh03veYm7mQvoQvizso_vdwSrNv1fkpUQYwY601)                                                                                                                                                                                                                                                                              |
+| **Завдання**  | Побудувати «Лавове озеро» під землю                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Код**       | <p><img src="https://lh3.googleusercontent.com/zKluOWh9UzICdWHP8bjCMzmCZJFuaLDM9lU6anF9DM3DlL4phapnP6ykOYuKYyCagoqf5qfuE8z6pZnxmss9JuFDF8aVj5_7aOi07eMK1G1YLE4bPpSmVUqEjiDOVz7cCl26lsYU5sMLs26rJaXqJVF7fGQ5lQVTUOF_xLj4D_zhmYOgvajvlPQ7FBin" alt="no-img"/><br/><img src="https://lh4.googleusercontent.com/R0QgtjTl76LFr8X3kTZpq-Iec9dpbT-0gFRFLvIYr3rMXUszWSG3w9e_WroRY9ObTVATmn2f7CbCrgSxN6SKlQ65Zs06XUULV43cjKYqhXWUpJP8SKZJLJbxlWcupp5_09yONMJAc5lY1J74KstO0V6t8Xz8CpBQZEXtur13AjuDgLE-6lxJN6WDTlsS" alt="no-img"/></p> |
+| **Результат** | ![](https://lh3.googleusercontent.com/KjtVHBw567PtkJdN8NUMRfiGoMcojreybQc2UtG8UwXRs2dW6ASGjdPDOO_3vhIbENW6VqvHNDWdeGLw2EtBI_ABrn359NfaPXt8duOfr4fw-1-YMfK3RtzH69PY_Nyd2-bUnMADeRXe3Rb_NE1iJnh03veYm7mQvoQvizso_vdwSrNv1fkpUQYwY601)                                                                                                                                                                                                                                                                                          |
 
 ## Ферма
 
@@ -133,6 +136,6 @@ https://makecode.com/\_HVr9HjH4yFpf
 
 Код опублікуйте в Schoolodgy як[ тут](https://youtu.be/KW4fCTlCnf8)
 
-:::hint
+:::tip
 На наступному занятті на вас чекає подорож до Стародавнього Єгипту та побудова піраміди! Також ви отримаєте навички, необхідні для вашого проєкту😉
 :::
