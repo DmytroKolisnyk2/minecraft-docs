@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "display": "Docusaurus v2",
+  "docs": "https://v2.docusaurus.io/docs/typescript-support",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "types": [
+      "node",
+      "@docusaurus/module-type-aliases",
+      "@docusaurus/theme-classic"
+    ],
+    "lib": ["esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "target": "esnext",
+    "module": "commonjs",
+    "noEmit": false,
+    "paths": {
+      "@site/*": ["./*"]
+    },
+    "outDir": "build"
+  }
+}
